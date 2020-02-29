@@ -5,7 +5,7 @@
     "title": "ognCube3.f103-GLD-2019-07-03",
     "notes": "Final release for season 2019",
     "filename": "ognCube3.f103-2019-07-03-GLD-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2019-07-03-GLD-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-GLD-36MHz-0x2800.bin",
     "crc": 122,
     "len": 92640
   },
@@ -15,7 +15,7 @@
     "title": "ognCube3.f103-TOW-2019-07-03",
     "notes": "Final release for season 2019",
     "filename": "ognCube3.f103-2019-07-03-TOW-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2019-07-03-TOW-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-TOW-36MHz-0x2800.bin",
     "crc": 35,
     "len": 82472
   },
@@ -25,7 +25,7 @@
     "title": "ognCube3.f103-UAV-2019-07-03",
     "notes": "Final release for season 2019",
     "filename": "ognCube3.f103-2019-07-03-UAV-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2019-07-03-UAV-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-UAV-36MHz-0x2800.bin",
     "crc": 186,
     "len": 92640
   },
@@ -35,7 +35,7 @@
     "title": "ognCube3.f103-GLD-2020-02-19",
     "notes": "February 2020 release with:<br>* stability improvements,<br>* finer sensor data filtering,<br>* better traffic reception and processing,<br>* convergence prediction,<br>* and possible collision warnings.",
     "filename": "ognCube3.f103-2020-02-19-GLD-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2020-02-19-GLD-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-GLD-36MHz-0x2800.bin",
     "crc": 221,
     "len": 97800
   },
@@ -45,7 +45,7 @@
     "title": "ognCube3.f103-TOW-2020-02-19",
     "notes": "February 2020 release with:<br>* stability improvements,<br>* finer sensor data filtering,<br>* better traffic reception and processing,<br>* convergence prediction,<br>* and possible collision warnings.",
     "filename": "ognCube3.f103-2020-02-19-TOW-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2020-02-19-TOW-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-TOW-36MHz-0x2800.bin",
     "crc": 93,
     "len": 97800
   },
@@ -55,7 +55,7 @@
     "title": "ognCube3.f103-UAV-2020-02-19",
     "notes": "February 2020 release with:<br>* stability improvements,<br>* finer sensor data filtering,<br>* better traffic reception and processing,<br>* convergence prediction,<br>* and possible collision warnings.",
     "filename": "ognCube3.f103-2020-02-19-UAV-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCube/raw/master/releases/ognCube3.f103-2020-02-19-UAV-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-UAV-36MHz-0x2800.bin",
     "crc": 29,
     "len": 97800
   }
