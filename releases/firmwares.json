@@ -1,35 +1,5 @@
 [
-  {
-    "type": "GLD",
-    "date": "2019-07-03",
-    "title": "ognCube3.f103-GLD-2019-07-03",
-    "notes": "Final release for season 2019",
-    "filename": "ognCube3.f103-2019-07-03-GLD-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-GLD-36MHz-0x2800.bin",
-    "crc": 122,
-    "len": 92640
-  },
-  {
-    "type": "TOW",
-    "date": "2019-07-03",
-    "title": "ognCube3.f103-TOW-2019-07-03",
-    "notes": "Final release for season 2019",
-    "filename": "ognCube3.f103-2019-07-03-TOW-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-TOW-36MHz-0x2800.bin",
-    "crc": 35,
-    "len": 82472
-  },
-  {
-    "type": "UAV",
-    "date": "2019-07-03",
-    "title": "ognCube3.f103-UAV-2019-07-03",
-    "notes": "Final release for season 2019",
-    "filename": "ognCube3.f103-2019-07-03-UAV-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2019-07-03-UAV-36MHz-0x2800.bin",
-    "crc": 186,
-    "len": 92640
-  },
-  {
+    {
     "type": "GLD",
     "date": "2020-02-19",
     "title": "ognCube3.f103-GLD-2020-02-19",
