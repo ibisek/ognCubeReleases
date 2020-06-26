@@ -1,6 +1,16 @@
 [
     {
     "type": "GLD",
+    "date": "2020-06-26",
+    "title": "ognCube3.f103-GLD-2020-06-26",
+    "notes": "Logbook improvements.",
+    "filename": "ognCube3.f103-2020-06-26-GLD-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-06-26-GLD-36MHz-0x2800.bin",
+    "crc": 27,
+    "len": 97976
+  },
+    {
+    "type": "GLD",
     "date": "2020-02-19",
     "title": "ognCube3.f103-GLD-2020-02-19",
     "notes": "February 2020 release with:<br>* stability improvements,<br>* finer sensor data filtering,<br>* better traffic reception and processing,<br>* convergence prediction,<br>* and possible collision warnings.",
