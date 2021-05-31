@@ -1,5 +1,5 @@
 [
-    {
+  {
     "type": "GLD",
     "date": "2020-06-26",
     "title": "ognCube3.f103-GLD-2020-06-26",
@@ -8,9 +8,11 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-06-26-GLD-36MHz-0x2800.bin",
     "crc": 27,
     "len": 97976,
-    "hw": [3]
+    "hw": [
+      3
+    ]
   },
-    {
+  {
     "type": "TOW",
     "date": "2020-06-26",
     "title": "ognCube3.f103-TOW-2020-06-26",
@@ -19,9 +21,11 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-06-26-TOW-36MHz-0x2800.bin",
     "crc": 155,
     "len": 97976,
-    "hw": [3]
+    "hw": [
+      3
+    ]
   },
-    {
+  {
     "type": "GLD",
     "date": "2020-02-19",
     "title": "ognCube3.f103-GLD-2020-02-19",
@@ -30,7 +34,9 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-GLD-36MHz-0x2800.bin",
     "crc": 221,
     "len": 97800,
-    "hw": [3]
+    "hw": [
+      3
+    ]
   },
   {
     "type": "TOW",
@@ -41,7 +47,9 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-TOW-36MHz-0x2800.bin",
     "crc": 93,
     "len": 97800,
-    "hw": [3]
+    "hw": [
+      3
+    ]
   },
   {
     "type": "UAV",
@@ -52,9 +60,11 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2020-02-19-UAV-36MHz-0x2800.bin",
     "crc": 29,
     "len": 97800,
-    "hw": [3]
+    "hw": [
+      3
+    ]
   },
-    {
+  {
     "type": "GLD",
     "date": "2021-05-25",
     "title": "ognCube3.5.l152-GLD-2021-05-25",
@@ -63,6 +73,9 @@
     "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.l152-2021-05-25-GLD-0x2800.bin",
     "crc": 221,
     "len": 97800,
-    "hw": [3.1, 3.5]
+    "hw": [
+      3.1,
+      3.5
+    ]
   }
 ]
