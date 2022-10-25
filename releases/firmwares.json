@@ -1,26 +1,26 @@
 [
   {
     "type": "GLD",
-    "date": "2022-10-20",
-    "title": "ognCube3.f103-2022-10-20",
-    "notes": "Transmit GPS altitude instead of barometric",
-    "filename": "ognCube3.f103-2022-10-20-GLD-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-10-20-GLD-36MHz-0x2800.bin",
-    "crc": 117,
-    "len": 98104,
+    "date": "2022-10-25",
+    "title": "ognCube3.f103-2022-10-25",
+    "notes": "Fixed GPS & signalling problems. Transmits GPS altitude instead of barometric",
+    "filename": "ognCube3.f103-2022-10-25-GLD-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-10-25-GLD-36MHz-0x2800.bin",
+    "crc": 110,
+    "len": 98840,
     "hw": [
       3
     ]
   },
   {
     "type": "TOW",
-    "date": "2022-10-20",
-    "title": "ognCube3.f103-2022-10-20",
-    "notes": "Transmit GPS altitude instead of barometric",
-    "filename": "ognCube3.f103-2022-10-20-TOW-36MHz-0x2800.bin",
-    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-10-20-TOW-36MHz-0x2800.bin",
-    "crc": 245,
-    "len": 98104,
+    "date": "2022-10-25",
+    "title": "ognCube3.f103-2022-10-25",
+    "notes": "Fixed GPS & signalling problems. Transmits GPS altitude instead of barometric",
+    "filename": "ognCube3.f103-2022-10-25-TOW-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-10-25-TOW-36MHz-0x2800.bin",
+    "crc": 238,
+    "len": 98840,
     "hw": [
       3
     ]
