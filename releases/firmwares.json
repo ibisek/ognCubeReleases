@@ -1,6 +1,32 @@
 [
   {
     "type": "GLD",
+    "date": "2022-11-02",
+    "title": "ognCube3.f103-2022-11-02",
+    "notes": "Finally transmits the true local altitude.",
+    "filename": "ognCube3.f103-2022-11-02-GLD-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-11-02-GLD-36MHz-0x2800.bin",
+    "crc": 67,
+    "len": 99104,
+    "hw": [
+      3
+    ]
+  },
+  {
+    "type": "TOW",
+    "date": "2022-11-02",
+    "title": "ognCube3.f103-2022-11-02",
+    "notes": "Finally transmits the true local altitude.",
+    "filename": "ognCube3.f103-2022-11-02-TOW-36MHz-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube3.f103-2022-11-02-TOW-36MHz-0x2800.bin",
+    "crc": 72,
+    "len": 99104,
+    "hw": [
+      3
+    ]
+  },
+  {
+    "type": "GLD",
     "date": "2022-10-25",
     "title": "ognCube3.f103-2022-10-25",
     "notes": "Fixed GPS & signalling problems. Transmits GPS altitude instead of barometric",
