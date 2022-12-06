@@ -129,5 +129,45 @@
       3.1,
       3.5
     ]
-  }
+  },
+  {
+    "type": "GLD",
+    "date": "2022-11-03",
+    "title": "ognCube2.f103-2022-11-03-GLD",
+    "notes": "Finally transmits the true local altitude.",
+    "filename": "ognCube2.f103-2022-11-03-GLD-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube2.f103-2022-11-03-GLD-0x2800.bin",
+    "crc": 666,
+    "len": 99040,
+    "hw": [
+      2,
+    ]
+  },
+  {
+    "type": "TOW",
+    "date": "2022-11-03",
+    "title": "ognCube2.f103-2022-11-03-TOW",
+    "notes": "Finally transmits the true local altitude.",
+    "filename": "ognCube2.f103-2022-11-03-TOW-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube2.f103-2022-11-03-TOW-0x2800.bin",
+    "crc": 666,
+    "len": 99040,
+    "hw": [
+      2,
+    ]
+  },
+  {
+    "type": "UAV",
+    "date": "2022-11-03",
+    "title": "ognCube2.f103-2022-11-03-UAV",
+    "notes": "Finally transmits the true local altitude.",
+    "filename": "ognCube2.f103-2022-11-03-UAV-0x2800.bin",
+    "url": "https://github.com/ibisek/ognCubeReleases/raw/master/releases/ognCube2.f103-2022-11-03-UAV-0x2800.bin",
+    "crc": 666,
+    "len": 99040,
+    "hw": [
+      2,
+    ]
+  },
+  
 ]
